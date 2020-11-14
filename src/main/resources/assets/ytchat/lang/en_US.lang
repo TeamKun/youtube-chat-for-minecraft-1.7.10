@@ -1,0 +1,15 @@
+
+gui.ytchat.configuration=%s Settings
+gui.ytchat.error=YouTubeChat Error
+config.ytchat.secret=Secret Settings
+config.ytchat.secret.client_secret=Client Secret
+config.ytchat.secret.video_id=Video ID
+gui.ytchat.mock=Mock Test
+gui.ytchat.mock.author=Mock Author
+gui.ytchat.mock.message=Mock Message
+gui.ytchat.mock.send=Send Mock Message
+gui.ytchat.control.start=Start Service
+gui.ytchat.control.stop=Stop Service
+gui.ytchat.control.logout=Logout
+gui.ytchat.control.echo.start=Echo Start
+gui.ytchat.control.echo.stop=Echo Stop"
